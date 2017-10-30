@@ -1,0 +1,10 @@
+{
+    "require": {
+        "matyhtf/swoole_framework": "dev-master"
+    },
+    "autoload": {
+        "files": [
+            "webroot/apps/Helpers/functions.php"
+        ]
+    }
+}

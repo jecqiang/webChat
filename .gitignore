@@ -1,0 +1,5 @@
+/vendor/
+/.idea/
+*.log
+/log/
+webroot/logs/
